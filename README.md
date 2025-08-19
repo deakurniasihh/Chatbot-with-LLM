@@ -1,7 +1,7 @@
 chatbot is an artificial intelligence-based program designed to interact with users through text. By leveraging Natural Language Processing (NLP), chatbots can understand questions, provide answers, and even hold conversations that resemble human interactions.
 
 This project demonstrates the integration of LlamaIndex with the Zephyr-7B-beta model in GGUF format using llama-cpp.
-The purpose of this repository is to provide a practical example of how to run a Zephyr-based LLM through LlamaIndex, including how to adjust the code to remain compatible with the latest changes in the library.
+The purpose of this repository is to provide a practical example of how to run a Zephyr-based LLM through LlamaIndex and make simpel chatbot using google collab including how to adjust the code to remain compatible in the library.
 
 🛠️ Technologies Used 
 
