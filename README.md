@@ -3,7 +3,8 @@ chatbot is an artificial intelligence-based program designed to interact with us
 This project demonstrates the integration of LlamaIndex with the Zephyr-7B-beta model in GGUF format using llama-cpp.
 The purpose of this repository is to provide a practical example of how to run a Zephyr-based LLM through LlamaIndex, including how to adjust the code to remain compatible with the latest changes in the library.
 
-🛠️ Technologies Used
+🛠️ Technologies Used 
+
 ✅ Python 
 
 ✅ LLM: zephyr-7b-beta 
@@ -24,7 +25,8 @@ Bot:yes, i'm familiar with the term "tech winter". it's a phrase used to describ
 ````
 User → Prompt → LlamaIndex → LlamaCPP (Zephyr-7B) → Response → User
 ````
-📚 Source 
+📚 Source  
+
 https://huggingface.co/HuggingFaceH4/zephyr-7b-beta 
 
 https://huggingface.co/TheBloke/zephyr-7B-beta-GGUF 
