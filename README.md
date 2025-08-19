@@ -4,11 +4,16 @@ This project demonstrates the integration of LlamaIndex with the Zephyr-7B-beta 
 The purpose of this repository is to provide a practical example of how to run a Zephyr-based LLM through LlamaIndex, including how to adjust the code to remain compatible with the latest changes in the library.
 
 🛠️ Technologies Used
-✅ Python
-✅ LLM: zephyr-7b-beta
-✅ LlamaIndex 
+✅ Python 
+
+✅ LLM: zephyr-7b-beta 
+
+✅ LlamaIndex  
+
 ✅ LlamaCPP 
-✅ Gradio 
+
+✅ Gradio  
+
 
 💡 Example Implementation
 ````
@@ -20,8 +25,11 @@ Bot:yes, i'm familiar with the term "tech winter". it's a phrase used to describ
 User → Prompt → LlamaIndex → LlamaCPP (Zephyr-7B) → Response → User
 ````
 📚 Source 
-https://huggingface.co/HuggingFaceH4/zephyr-7b-beta
-https://huggingface.co/TheBloke/zephyr-7B-beta-GGUF
-https://www.youtube.com/watch?v=51o9mUFkUmA
+https://huggingface.co/HuggingFaceH4/zephyr-7b-beta 
+
+https://huggingface.co/TheBloke/zephyr-7B-beta-GGUF 
+
+https://www.youtube.com/watch?v=51o9mUFkUmA 
+
 
 https://github.com/user-attachments/assets/6949c8e2-2567-4c1d-b3f8-0914940100b4
